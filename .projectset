@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-concurrent-futures/tags/1.0.0,androidx-concurrent-futures,a043bd5c1bcd001a1c41ba8cfd354aaa;https://github.com/dandar3/android-androidx-concurrent-futures;https://github.com/dandar3/android-androidx-concurrent-futures;branches;tags;trunk;true;e7a7d05b-72c3-eb25-bcd7-ce57b7db7bff;https://github.com/dandar3/android-androidx-concurrent-futures;;false;;;0"/>
+</provider>
+</psf>
